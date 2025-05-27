@@ -2,7 +2,7 @@
 
 A interactive robot builder built with Vue 3 and Vite. Customize your robot with dynamic parts and animations!
 
-![Robot Preview](public/robot-preview.gif) <!-- Добавьте реальный скриншот или GIF -->
+![Robot Preview](public/robot-preview.gif)
 
 ## ✨ Features
 - Dynamic robot assembly from parts
