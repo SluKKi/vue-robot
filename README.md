@@ -1,27 +1,21 @@
-№ Описание
+# 🤖 Build a Robot with Vue 3 
 
-Этот репозиторий содержит веб-интерфейс для управления роботом, построенный на Vue.js. Проект включает в себя:
-- Реализацию выбора деталей для робота.
-- Покупку деталей. 
+A interactive robot builder built with Vue 3 and Vite. Customize your robot with dynamic parts and animations!
 
-# build_a_robot
+![Robot Preview](public/robot-preview.gif) <!-- Добавьте реальный скриншот или GIF -->
 
-This template should help get you started developing with Vue 3 in Vite.
+## ✨ Features
+- Dynamic robot assembly from parts
+- Smooth animations with Vue transitions
+- Responsive design
+- Easy-to-extend component structure
 
-## Recommended IDE Setup
+## 🚀 Quick Start
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+### 1. Install dependencies
+```bash
 npm install
 ```
-
 ### Compile and Hot-Reload for Development
 
 ```sh
